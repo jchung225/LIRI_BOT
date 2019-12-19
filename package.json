@@ -1,19 +1,30 @@
 {
-  "name": "liri_bot",
+  "name": "liri-bot",
   "version": "1.0.0",
   "description": "",
-  "main": "Liri.js",
+  "main": "keys.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jchung225/LIRI_BOT.git"
+    "url": "git+https://github.com/brandonlublin/liri-bot.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jchung225/LIRI_BOT/issues"
+    "url": "https://github.com/brandonlublin/liri-bot/issues"
   },
-  "homepage": "https://github.com/jchung225/LIRI_BOT#readme"
+  "homepage": "https://github.com/brandonlublin/liri-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bandsintown": "^1.0.1",
+    "dotenv": "^7.0.0",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1",
+    "omdb": "^0.8.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
 }

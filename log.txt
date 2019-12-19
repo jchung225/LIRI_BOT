@@ -1,0 +1,203 @@
+Movie Title: Titanic
+
+Movie Release Year: 1997
+
+IMDB Rating: 7.8/10
+
+Rotten Tomatoes Rating: 89%
+
+Production Country: USA
+
+Movie Language: English, Swedish, Italian
+
+Plot: 84 years later, a 100 year-old woman named Rose DeWitt Bukater tells the story to her granddaughter Lizzy Calvert, Brock Lovett, Lewis Bodine, Bobby Buell and Anatoly Mikailavich on the Keldysh about her life set in April 10th 1912, on a ship called Titanic when young Rose boards the departing ship with the upper-class passengers and her mother, Ruth DeWitt Bukater, and her fiancé, Caledon Hockley. Meanwhile, a drifter and artist named Jack Dawson and his best friend Fabrizio De Rossi win third-class tickets to the ship in a game. And she explains the whole story from departure until the death of Titanic on its first and last voyage April 15th, 1912 at 2:20 in the morning.
+
+Main Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy BatesArtist: LOCAL NATIVES
+Concert Date: 05/15/2019
+Concert Time: 07:00 PM
+Venue Name: Commodore Ballroom
+City: VancouverArtist: LOCAL NATIVES
+Concert Date: 05/16/2019
+Concert Time: 07:00 PM
+Venue Name: Neptune Theatre
+City: SeattleArtist: LOCAL NATIVES
+Concert Date: 05/17/2019
+Concert Time: 07:00 PM
+Venue Name: Neptune Theatre
+City: SeattleArtist: LOCAL NATIVES
+Concert Date: 05/18/2019
+Concert Time: 07:00 PM
+Venue Name: Roseland Theater
+City: PortlandArtist: LOCAL NATIVES
+Concert Date: 05/21/2019
+Concert Time: 07:00 PM
+Venue Name: First Avenue
+City: MinneapolisArtist: LOCAL NATIVES
+Concert Date: 05/23/2019
+Concert Time: 07:00 PM
+Venue Name: Thalia Hall
+City: ChicagoArtist: LOCAL NATIVES
+Concert Date: 05/27/2019
+Concert Time: 07:00 PM
+Venue Name: Phoenix Concert Theatre
+City: TorontoArtist: LOCAL NATIVES
+Concert Date: 05/28/2019
+Concert Time: 07:00 PM
+Venue Name: Rialto Theatre
+City: MontréalArtist: LOCAL NATIVES
+Concert Date: 05/30/2019
+Concert Time: 12:00 AM
+Venue Name: Paradise Rock Club
+City: BostonArtist: LOCAL NATIVES
+Concert Date: 05/25/2019
+Concert Time: 07:00 PM
+Venue Name: Majestic Theatre
+City: DetroitArtist: LOCAL NATIVES
+Concert Date: 06/01/2019
+Concert Time: 12:00 AM
+Venue Name: Stage AE
+City: PittsburghArtist: LOCAL NATIVES
+Concert Date: 05/31/2019
+Concert Time: 12:00 AM
+Venue Name: Paradise Rock Club
+City: BostonArtist: LOCAL NATIVES
+Concert Date: 05/24/2019
+Concert Time: 07:00 PM
+Venue Name: Thalia Hall
+City: ChicagoArtist: LOCAL NATIVES
+Concert Date: 06/03/2019
+Concert Time: 12:00 AM
+Venue Name: 9:30 Club
+City: WashingtonArtist: LOCAL NATIVES
+Concert Date: 06/04/2019
+Concert Time: 12:00 AM
+Venue Name: 9:30 Club
+City: WashingtonArtist: LOCAL NATIVES
+Concert Date: 06/06/2019
+Concert Time: 12:00 AM
+Venue Name: Brooklyn Steel
+City: BrooklynArtist: LOCAL NATIVES
+Concert Date: 06/07/2019
+Concert Time: 12:00 AM
+Venue Name: Brooklyn Steel
+City: BrooklynArtist: LOCAL NATIVES
+Concert Date: 06/08/2019
+Concert Time: 12:00 AM
+Venue Name: Union Transfer
+City: PhiladelphiaArtist: LOCAL NATIVES
+Concert Date: 06/10/2019
+Concert Time: 12:00 AM
+Venue Name: The Ritz
+City: RaleighArtist: LOCAL NATIVES
+Concert Date: 06/11/2019
+Concert Time: 12:00 AM
+Venue Name: Buckhead Theatre
+City: AtlantaArtist: LOCAL NATIVES
+Concert Date: 06/15/2019
+Concert Time: 07:00 PM
+Venue Name: Stubb's Waller Creek
+City: AustinArtist: LOCAL NATIVES
+Concert Date: 06/17/2019
+Concert Time: 07:00 PM
+Venue Name: Ogden Theatre
+City: DenverArtist: LOCAL NATIVES
+Concert Date: 06/19/2019
+Concert Time: 07:00 PM
+Venue Name: North Park Theatre
+City: San DiegoArtist: LOCAL NATIVES
+Concert Date: 06/20/2019
+Concert Time: 07:00 PM
+Venue Name: The Observatory
+City: Santa AnaArtist: LOCAL NATIVES
+Concert Date: 06/21/2019
+Concert Time: 07:00 PM
+Venue Name: Fox Theatre
+City: OaklandArtist: LOCAL NATIVES
+Concert Date: 06/22/2019
+Concert Time: 07:00 PM
+Venue Name: Hollywood Palladium
+City: Los AngelesArtist: LOCAL NATIVES
+Concert Date: 06/28/2019
+Concert Time: 07:00 PM
+Venue Name: Summer Nostos Festival
+City: AthensArtist: LOCAL NATIVES
+Concert Date: 07/19/2019
+Concert Time: 07:00 PM
+Venue Name: Oxford Art Factory
+City: DarlinghurstArtist: LOCAL NATIVES
+Concert Date: 07/20/2019
+Concert Time: 07:00 PM
+Venue Name: Hotel Esplanade
+City: St KildaArtist: LOCAL NATIVES
+Concert Date: 09/28/2019
+Concert Time: 08:30 PM
+Venue Name: Paradiso Noord, Tolhuistuin
+City: Nieuw-amsterdamArtist: LOCAL NATIVES
+Concert Date: 09/29/2019
+Concert Time: 08:00 PM
+Venue Name: Le Botanique
+City: Saint-josse-ten-noodeArtist: LOCAL NATIVES
+Concert Date: 09/30/2019
+Concert Time: 08:00 PM
+Venue Name: La Maroquinerie
+City: ParisArtist: LOCAL NATIVES
+Concert Date: 10/01/2019
+Concert Time: 08:30 PM
+Venue Name: Rote Fabrik Clubraum
+City: ZurichArtist: LOCAL NATIVES
+Concert Date: 10/03/2019
+Concert Time: 07:00 PM
+Venue Name: Lido
+City: BerlinArtist: LOCAL NATIVES
+Concert Date: 10/05/2019
+Concert Time: 08:00 PM
+Venue Name: Slaktkyrkan
+City: StockholmArtist: LOCAL NATIVES
+Concert Date: 10/06/2019
+Concert Time: 08:00 PM
+Venue Name: Pumpehuset, Lille Sal
+City: København VArtist: LOCAL NATIVES
+Concert Date: 10/08/2019
+Concert Time: 07:00 PM
+Venue Name: LUXOR
+City: KolnArtist: LOCAL NATIVES
+Concert Date: 10/10/2019
+Concert Time: 07:00 PM
+Venue Name: Concorde 2
+City: BrightonArtist: LOCAL NATIVES
+Concert Date: 10/11/2019
+Concert Time: 07:00 PM
+Venue Name: Gorilla
+City: ManchesterArtist: LOCAL NATIVES
+Concert Date: 10/12/2019
+Concert Time: 07:00 PM
+Venue Name: The Academy, Middle Abbey Street
+City: DublinArtist: LOCAL NATIVES
+Concert Date: 10/14/2019
+Concert Time: 07:30 PM
+Venue Name: Summerhall
+City: EdinburghArtist: LOCAL NATIVES
+Concert Date: 10/15/2019
+Concert Time: 08:00 PM
+Venue Name: Belgrave Music Hall
+City: LeedsArtist: LOCAL NATIVES
+Concert Date: 10/16/2019
+Concert Time: 07:00 PM
+Venue Name: Electric Brixton
+City: LondonArtist: LOCAL NATIVES
+Concert Date: 10/17/2019
+Concert Time: 07:30 PM
+Venue Name: The Fleece
+City: BristolArtist: LOCAL NATIVES
+Concert Date: 06/14/2019
+Concert Time: 12:00 AM
+Venue Name: House of Blues
+City: DallasArtist: LOCAL NATIVES
+Concert Date: 06/13/2019
+Concert Time: 12:00 AM
+Venue Name: The Aztec Theatre
+City: San AntonioArtist: LOCAL NATIVES
+Concert Date: 07/21/2019
+Concert Time: 07:00 PM
+Venue Name: Splendour in the Grass
+City: Wooyung
