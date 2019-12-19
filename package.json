@@ -19,12 +19,10 @@
   "homepage": "https://github.com/brandonlublin/liri-bot#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "bandsintown": "^1.0.1",
-    "dotenv": "^7.0.0",
-    "moment": "^2.24.0",
-    "node-spotify-api": "^1.1.1",
-    "omdb": "^0.8.0",
-    "spotify": "^0.3.0",
-    "twitter": "^1.7.1"
+    "dotenv": "^6.1.0",
+    "inquire": "^0.4.8",
+    "inquirer": "^6.2.1",
+    "moment": "^2.22.2",
+    "node-spotify-api": "^1.0.7"
   }
 }
