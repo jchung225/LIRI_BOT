@@ -22,7 +22,7 @@
     "dotenv": "^6.1.0",
     "inquire": "^0.4.8",
     "inquirer": "^6.2.1",
-    "moment": "^2.22.2",
+    "moment": "^2.29.2",
     "node-spotify-api": "^1.0.7"
   }
 }
